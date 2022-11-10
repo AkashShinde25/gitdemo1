@@ -1,6 +1,6 @@
 class demo(){
 
-psvm(){
-sop("git Demo");
+public static void main(String args[]){
+syatem.out.println("git Demo");
 }
 }
